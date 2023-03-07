@@ -1,0 +1,814 @@
+#+title: CPD
+#+startup: overview
+#+setupfile: export/cpd.setup
+
+* [2023-03-06 Mon] Ethical item
+
+Project 9011 Green Square Stage 4 Excavation - IV
+
+- SEA Independant verification
+- Structural report by VDM did not provide the typical necessary results to assess against SW guidelines and calcs hid the fact that the culvert did not pass
+- Pressure from client to get the report out same day
+- It was discovered that the loading exceeded both the SW guidelines and in some cases the ULS strength under the post-development loading provided by geotech assessment
+- Client notified about the issue. We positioned ourselves as not delaying the package submission but as saving the client time of submitting and having the development rejected by SW
+- Resolution: geotechnical report was revised based on geotech IV recommendations that the original analysis was overly conservative. Under the revised loading the culvert passed the SW loading guidelines for SEA
+* [2023-02-16 Thu] Penetron presentation
+:PROPERTIES:
+:type: External presentation
+:END:
+:LOGBOOK:
+CLOCK: [2023-02-16 Thu 12:00]--[2023-02-16 Thu 13:00] =>  1:00
+:END:
+
+- *Presenter*: Hacene Baleh, hacene@penetron.com.au - Penetron
+
+- Concrete deteriation: corrosion of rebar, freeze/thaw
+- Penetron admixture used to seal up pores
+- Hydrophylic material can be used for non-hydrostatic
+- Hydrostatic - using SB admixture
+
+- Secant pile vertical cold joints treated with Penecreate mortar
+- Penebar installed horizontally within slab
+- Penebar min cover 55mm
+
+- Admixture is only suitable for static cracking, isn't going to work for dynamic loading
+- BS8102/2009 gives watertightness specifications
+
+- Carbon dioxide + carbon hydroxide = calcium carbonate + water
+- Calcium carbonate lowers pH below 9 so corrosion can occur
+- Cut the water element prevents corrosion
+
+- Chloride attack near to sea
+- Cut the water element prevents corrosion
+
+- With preliminary drawings, penetron is able to markup details for waterproofing
+- Pick and drop notes available
+- Library of standard details and notes
+* [2023-02-10 Fri] The Structural Engineering Podcast
+:PROPERTIES:
+:type: podcast
+:END:
+:LOGBOOK:
+CLOCK: [2023-02-10 Sat 17:30]--[2023-02-10 Sat 18:30] =>  1:00
+:END:
+
+- *Title*: Building with the future in mind
+- *Presenter*: Ethan Fogle (HGA Architects and Engineers)
+
+- From an embodied carbon perspective Timber > Steel > Concrete
+- Engineers to be involved in the ideation phase to bring sustainability values to projects
+- Idea of quantising embodied carbon as part of material takeoff
+
+* [2023-02-08 Wed] Timber design series
+
+Webinars from NZ timber design society:
+https://www.timberdesign.org.nz/timber-design-society-2022-series/
+
+* [2023-02-04 Sat] Episode 71 - Structural engineering podcast
+:PROPERTIES:
+:type: podcast
+:END:
+:LOGBOOK:
+CLOCK: [2023-02-03 Sat 17:30]--[2023-02-03 Sat 18:30] =>  0:00
+:END:
+
+- *Title*: Dampers, How to shake it up and slow it down
+- *Presenter*: Trevor Haskett, Motioneering
+- *Link*: https://castbox.fm/channel/id1486472?country=us
+
+- Tuned mass dampers (steel typ) or sloshing tank dampers are being commonly used for buildings larger than 30 storeys
+- Currently for serviceability only, not to reduce ULS
+- Reverse calcs used to check pools on upper levels
+- Usually effective at 1-1.5% of the modal mass
+- Take up prime real estate but can be used to increase 5-10 storeys
+
+* [2023-02-03 Fri] How to become a Chartered Engineer info session
+:PROPERTIES:
+:type: EA presentation
+:END:
+:LOGBOOK:
+CLOCK: [2023-02-03 Fri 12:30]--[2023-02-03 Fri 13:30] =>  1:00
+:END:
+
+- *Presenter*: Paul Sloam, Jessica Milestone
+- Area of practice: Structural Engineering
+- Assessment:
+  1. Self assessment, rating of Functional or above required in all 16
+     competencies
+  2. Industry review, for each piece of evidence provided to address
+     16 competencies it is reviewed
+  3. Enrol for chartered, CV and CPD hours - can record CPD in another
+     method than online tracker, just requires standardised info (look
+     up )
+  4. Evidence process
+  5. Professional interview
+
+* [2023-02-03 Fri] TSEC 95 Why Mass Timber is Gaining popularity
+:PROPERTIES:
+:type: podcast
+:END:
+:LOGBOOK:
+CLOCK: [2023-02-03 Fri 07:20]--[2023-02-03 Fri 07:50] =>  0:30
+:END:
+
+- *Title*: Why Mass Timber is Gaining popularity
+- *Presenter*: Eric McDonnell
+
+- Provides a difference in feels which is appealing to end users
+- Supply is a key to working out feasibility
+- advice to take hold of career opportunities
+
+* [2022-11-26 Sat] PTD column fixity
+
+- RCB should be pin-pin columns so that all lateral load is transfered to the core
+- PTD should be pin-pin, but long columns to be converted into walls to give more accurate deflection results
+* [2022-12-13 Tue] Facade engineering
+:PROPERTIES:
+:type: Indesco training
+:END:
+:LOGBOOK:
+CLOCK: [2022-12-13 Tue 12:00]--[2022-12-13 Tue 13:00] =>  1:00
+:END:
+- *Presenter*: Aaron Hazelton, Michael Smith, Liam Pickett
+
+- FP1.4 report dealing with waterproofing
+- Core idea is rain screen, preventing rain from entering the building
+
+- Wind analysis - Indesco to use Checkwind
+- Liability is to complete a wind pressure report and giving
+  termination heights for membrane/flashing, we are not sizing up
+  members as these are usually tested and certified to a specific
+  level
+  
+- *Report*
+  - Introducion
+    - Intent of document
+    - Project description
+    - Development specifications / facade systems
+    - Environmental conditions
+  - Stakeholders
+  - NCC Performance Requirements
+    - Compliance with perf reqs - always performance solution
+  - Assessment method
+    - Arch details and shop drawings
+    - Glazing
+    - Waterproofing membranes
+    - Membrane upward vertical termination heights - based on
+      windspeed and AS4654.2
+    - Cladding (paying attention to joints between claddings)
+    - Air seal and vapour barriers
+    - Material compatibility
+    - Site inspection
+  - Site testing
+    - Water penetration tests (glazing)
+    - Gutter testing
+    - Membrane testing
+    - Box gutter testing
+    - Witness (the test to be witnessed)
+    - Results of testing
+  - Review of glazing
+    
+- L:\Structural Design\Books, Catalogues & Drawings\Facade
+* [2022-11-03 Thu] The art of mass timber
+:PROPERTIES:
+:type: Podcast
+:END:
+:LOGBOOK:
+CLOCK: [2022-11-03 Thu 12:30]--[2022-11-03 Thu 13:00] =>  0:30
+:END:
+- Title: The Structural Engineering Podcast 69: The art of mass timber
+- Interviewee: Robert Malczyk
+- Fast construction - saving on labour, plant hire, crane, etc 
+* [2022-10-21 Fri] Risk and Redundancy
+:PROPERTIES:
+:type: Indesco training
+:END:
+:LOGBOOK:
+CLOCK: [2022-10-21 Fri 12:30]--[2022-10-21 Fri 13:00] =>  0:30
+:END:
+
+- All designs reviewed by Chartered engineer
+- Any complex/critical parts should be identified to the reviewer
+- Complicated (hanging walls/transfers/etc) put risk into the job
+- Value from us can come from eliminating complexity if we can
+* [2022-10-14 Fri] RAM concept
+:PROPERTIES:
+:type: Indesco training
+:END:
+:LOGBOOK:
+CLOCK: [2022-10-14 Fri 12:30]--[2022-10-14 Fri 13:30] =>  1:00
+:END:
+- Presenter :: Dave Southgate (Indesco)
+
+- Work through criteria tab + materials (should be cornet)
+- Bring in dwg (work way down lhs)
+- Walls can't overlap
+- Add area loads + perimeter loads
+- Requires nomination of design strips - use auto gen and adjust (as per AS3600)
+- Strands can be bulk editted
+- Stress end to be nominated
+- Analysis - run along the top tool bar
+- Punching shear - have to identify columns to do check on
+- Very sensitive to creep faction (deflections) (ram typically more conservative / larger deflection)
+
+* [2022-10-13 Thu] MIDAS Civil
+
+- Used for design of bridges
+- Youtube tutorial: [[https://www.youtube.com/watch?v=ONzSQBbIQ78][Super T Bridge Design as per AS 5100]]
+- Model setup guide (not great): https://www.civilax.com/midas-training-super-t-girder-bridge-as-per-as-5100-with-midas-civil/
+
+* [2022-10-07 Fri] Joints in concrete floors and pavements
+:PROPERTIES:
+:type: EA presentation
+:END:
+:LOGBOOK:
+CLOCK: [2022-10-07 Fri 12:25]--[2022-10-07 Fri 13:30] =>  1:05
+:END:
+
+- Presenter: Arslan Awan (Leviat)
+
+  - Industrial floors SOG design suggested guideline is TR34 4th edn
+  - 1.5mm joint opening results in 5% strength reduction (agg. interlock and key joints)
+  - Design can be done by assuming 50% shear goes to dowel and 50% to ground
+  - Sawcuts within 4hours (summer) to 18hours(winter)
+  - Square dowel provides lateral movement +/-3mm up to 10mm (look to TR34.4 for design)
+  - Dowel alignment is important
+  - No sharp corners as they will break off
+  - Punching is normal mode of failure so for normal thickness smaller dowels often better
+* [2022-09-26 Mon] How Online Presence Can Help Your Engineering Career
+:PROPERTIES:
+:type: Podcast
+:END:
+:LOGBOOK:
+CLOCK: [2022-09-26 Mon 17:00]--[2022-09-26 Mon 18:00] =>  1:00
+:END:
+- Title: TSEC 86: How Online Presence Can Help Your Engineering Career
+- Interviewee: Luis Duque, Bridge Engineer (Foothills Bridge)
+- Use of LinkdIn/Insta/Personal blog to share what you are learning
+- Advocates blogging or podcasting to build internet presence
+- Advocates for networking, building connections with others in industry
+- Additional work outside work hours: tip is to work when energy levels are there, not forcing it, and consistency
+* [2022-09-06 Tue] Automation and Communication in Structural Engineering
+:PROPERTIES:
+:type: Podcast
+:END:
+:LOGBOOK:
+CLOCK: [2022-09-06 Mon 12:00]--[2022-09-06 Mon 13:00] =>  1:00
+:END:
+- Title: TSEC 85: Automation and Communication in Structural Engineering: Shaping the Future of Industry
+- Interviewee: Michael Bolduc (Simpson Gumpertz & Heger [SGH])
+- Use of BIM/Revit to coordinate between disciplines
+- Importance of communication with architect due to faster pace of projects
+- Future direction is having BIM model as project deliverable
+- Do not detail too early in design to avoid time consuming changes
+
+* [2022-08-08 Mon] Innovative Ways to Design and Build with Concrete
+:PROPERTIES:
+:type: Podcast
+:END:
+:LOGBOOK:
+CLOCK: [2022-08-08 Mon 12:57]--[2022-08-08 Mon 13:57] =>  1:00
+:END:
+- Title: TSEC 83: Innovative Ways to Design and Build with Concrete
+- Helix reinforcement, generally used for slab on ground
+- Urged people to get involved with standards committees
+- Looking at efficient performance based design (yield line analysis, etc) 
+
+* [2022-05-16 Mon] CORD software training
+:PROPERTIES:
+:type: Self learning
+:END:
+SCHEDULED: <2022-05-16 Mon 9:00-11:00>
+- Learnt software CORD for design of residential slabs to AS2870
+
+* [2021-10-01 Fri] Seismic design of post installed anchors
+:PROPERTIES:
+:type: EA presentation
+:END:
+:LOGBOOK:
+CLOCK: [2021-10-01 Fri 13:30]--[2021-10-01 Fri 14:30] =>  1:00
+:END:
+
+- Presenter: Damish Zuberi (Hilti)
+
+  - Based on latest update to AS 5216
+  - Bolts carry a seismic category rating (C1 or C2)
+* [2021-09-30 Thu] Ultra-floor design
+:PROPERTIES:
+:type: Indesco training
+:END:
+:LOGBOOK:
+CLOCK: [2021-09-30 Fri 12:30]--[2021-09-30 Fri 13:30] =>  1:00
+:END:
+- Presenter: Aaron Hazelton (Indesco)
+
+  - Precast prestressed beams with concrete topping
+  - Design always to capacity
+  - Focus needs to be on detailing
+    
+* [2021-09-23 Thu] Site inspection report
+
+** Details
+- Location
+- Job number
+- Date
+- Inspection stage
+- Builder contractor
+- Issued to/Inspected by/Signature
+
+** Comments
+Indesco inspected the preparations for XXX. At the time of inspection
+reinforcement had been installed up to XXX. All work appeared to
+satisfy the desgn intent with the following comments:
+
+** Instructions
+Prior to pour, contractor to ensure:
+- Appropriate cover is maintained
+- Site is cleared of debris
+- Concrete is properly vibrated/compacted
+
+* [2021-09-03 Fri] What is our role as Structural Engineers
+:PROPERTIES:
+:type: Indesco training
+:END:
+:LOGBOOK:
+CLOCK: [2021-09-03 Fri 13:30]--[2021-09-03 Fri 14:10] =>  0:40
+:END:
+- Presenter: Michael Smith (Indesco)
+
+  - What makes us good? Cost effective designs/efficient designs
+  - Mixed use/resi, all you need to do is line up units with car parks underneath
+  - Start at the basement layout, put columns in the grid
+  - Try to remove transfer in the resi above
+  - 8m/200 slab (excluding end spans)
+  - Simple designs provide simpler drafting, simpler details, simpler design
+
+  - Design steps: eng markups early in the project, drafting later
+  - Simplify as much as possible
+  - Nut out design before drafting
+  - More time spent during design can lead to less time on construction phase RFIs
+
+* [2021-08-30 Mon] Dincel Wall Systems
+:PROPERTIES:
+:type: EA presentation
+:END:
+:LOGBOOK:
+CLOCK: [2021-08-30 Mon 15:00]--[2021-08-30 Mon 15:30] =>  0:30
+:END:
+- Presenter: Robert Merjane, robertm@dincel.com.au
+
+- Water proof walls and corners (slab to wall connection require membrane)
+- Water proofing recommendations in the documentation
+- Self compacting concrete recommended for the forms to prevent air pockets
+- Otherwise we are relying on builders to properly compact
+- Corner can slide up and down (good for inspections)
+- Design recomendation is to treat PVC as void (apparently conservative) 
+- Look into UTS paper for testing of strength
+- GPR scanning good for finding air voids (other option is thermal scanning)
+- FRP can be calculated by Eurocode (allowed by AS3600) and Dincel have a spreadsheet available on request
+
+* [2021-08-15 Sun] WALLAP
+
+** WALLAP training session
+SCHEDULED: [2021-07-02 Wed 15:30-17:30]
+
+- Presenter :: Dave Southgate
+
+*** Setting up the model
+1. Input soil parameters -> can choose soil params from linked file
+   (good for same site)
+2. For Ka/Ko F1 allows choice of \phi
+3. Wall FE (finite element) length -> auto calculated
+4. Make sure prop area is large enough otherwise it won't grab. Check
+   moment diagram to confirm.
+5. Prop free length -> length of prop in active soil block (take as
+   45deg. from wall which is conservative)
+   - NB. shoring contractor will give free length + props. We should
+     provide free length minimum value.
+6. Prop prestress set to zero for initial analysis.
+7. Excavate 500 below prop press f1 26 a tag to to give space for
+   install
+8. BM options: nonlinear modulus parameter -> set to wall height
+9. Run analysis. Check deflection and prop forces -> NB. horo
+   component only is shown by WALLAP
+10. Lock off load should be 60-70% of the final load
+    
+*** Notes
+- Deflection should be small if sensitive structures around (20mm or less). To be agreed upon with geotech and client.
+- Rule of thumb: one anchor per basement level. we can cantilever one floor at top.
+- Email: /Geotechnical design parameters - from Thomas/ - consernative values.
+- tanδ/tanɸ : wall friction coefficient for cohesive soil -> set to 0.667 for cohesive soils
+- Don't directly engage geotech since they aren't insured
+- Shorings AH likes 2.8m, DS likes 2.4m spacing for soldier piles. Unless smaller required
+- Anchor -> 15deg gives good balance between min free length & cos angle (for load)
+- Bug: young's modulus won't go past 2e7 when 2e8 is needed. Go back to update
+
+* [2021-08-07 Sat] Fibre reinforced polymers
+
+- Search terms: GFRP, CFRP, AFRP
+- [[https://bestfiberglassrebar.com/applications/design-codes/][Design guides and standards]]
+
+* [2021-07-23 Fri] Post tensioned slabs
+
+** Design notes
+*** Layout
+- Prelim spacing is dependant on required P/A for crack control.
+  1.4MPa for moderate control
+- Edge stressing preferable
+- Otherwise live ends should be 1m from obstructions and otherwise
+  0.8m from edge (where edge stress not allowed but not obstructed)
+
+*** Top reo
+- Required to carry 25% of negative moment in column + 2* half mid
+  spans
+- Use a min of 4N16s in each direction
+
+** PT Macro export
+1. Save PTD file
+2. Label the tendons clockwise in order of:
+   - Xmin
+   - Ymax
+   - Xmax
+   - Ymin
+3. Check the number of tendons labelled (T01 -- TN) is correct
+4. Run and save the PTD model
+5. Export the drape values at high points (=Settings > Viewing >
+   Tendons > High points= = =True=) with =Reports > Duct profiles= to
+   =DuctHeight_report.$hlp.txt=
+6. Repeat for mid/low points in =DuctHeight_report.$mp.txt=
+7. Open Excel macro file and enter path/file locations in =Home= tab and
+   run the =Shop Drawings= macro
+8. For Xmin, Ymax, Xmax and Ymin (in order) take the corresponding
+   values from the =Tendon NS= tab and paste to a spare space in the
+   =Tendon No= tab
+9. Take the min/max value and for each value in the column replace
+   with the datum value
+10. Click the =Strand Number Location= macro
+11. Save the excel macro file
+12. Open the CAD template and delete any drawings still there
+13. Run VBAMAN and load =Import v1.XX.dvb=
+14. Click =Macros= and run the macro, giving the correct path and
+    filename of the excel macro workbook
+15. Check and save the CAD dwg
+
+** Deflection plots
+
+- From :: Aidan McCabe
+
+Just got a walkthrough by Dave on how he produces his deflection
+plots. Thought I’d put it down into words so we can be consistent
+across the office.
+
+1. Open PTD file. Solve model and display deflection. Make sure your
+   mesh is refined as much as possible (Dave likes 0.75m) and you have
+   colours displayed in your deflections.
+2. Take a screen shot of legend in top left of deflection plot.
+3. Export this display to CAD.
+4. In CAD, freeze the following
+   - Text at bottom of export
+   - Slab outline
+5. In CAD, scale the output up (should be by 1000).
+6. Drafters can then use this file to import into their drawing set.
+   Send them the .dxf and the saved legend. They have a template set
+   up for the legend where they can simply enter the numbers for that
+   plot.
+
+This process should be repeated for long term and short term
+deflections. Often the deflection plot itself won’t look any different
+between short and long term so the same plot can be used with two
+legends on the sheet, one for each case.
+
+** Review process
+
+- [ ] Page through to check overall content/presentation
+- [ ] Check correct strand diameters/specs
+- [ ] Check the material specifications
+- [ ] Check for location of each duct
+- [ ] Check number of strands in each duct
+- [ ] Check live/dead end locations
+- [ ] Check midpoint hat height values
+- [ ] Stamp drawing
+
+* [2021-07-21 Wed] Temporary Shoring and Propping Design in Australia
+:PROPERTIES:
+:type: EA presentation
+:END:
+:LOGBOOK:
+CLOCK: [2021-07-21 Wed 12:30]--[2021-07-21 Wed 14:00] =>  1:30
+:END:
+
+- Presenter 1: Ying Tay (Golder Associates)
+  - Drained state is more conservative
+  - WALLAP uses beam-spring FEA, doing limit state equilibrium as well as FEA for servicability limit state
+  - Better to spend money on good inputs & use a basic model
+  - Look out for is blow out / floor heave (particularly in clay)
+
+- Presenter 2: Sudhir Raina (Coates)
+  - Glorified advertisement, not much relevance to topic
+
+- Presenter 3: Harsh Bhambra (Delta Group)
+  - Example project: London Hotel excavation, Melbourne
+
+* [2021-06-24 Thu] The future of precast concrete
+:PROPERTIES:
+:type: EA presentation
+:END:
+:LOGBOOK:
+CLOCK: [2021-06-24 Thu 17:00]--[2021-06-24 Thu 18:00] =>  1:00
+:END:
+
+- Presenter: Robert Aldrich (John Holland Group)
+
+- Temporary timber molds for <5 pours, otherwise steel molds.
+- usage of off the shelf reinforcement where possible.
+- Larger size gives lower cost per meter, but requires transport/craning.
+- Sustainability
+  - Can be assembled + reused
+  - Thermal mass, may not need finishes
+- Innovation
+  - Automated facilities developing creation of images (graphic concrete) using custom membranes.
+  - Smart precast pavement
+- References
+  - Australian Precast Concrete Handbook
+
+* [2021-06-15 Tue] Erection of the ANI Ship Assembly Hall
+:PROPERTIES:
+:type: EA presentation
+:END:
+:LOGBOOK:
+CLOCK: [2021-06-15 Tue 17:30]--[2021-06-15 Tue 18:30] =>  1:00
+:END:
+- Presenter: James Deane-Butcher & Kyle Hourigan (Robert Bird Group)
+- Summary
+  - 200m portal frame, 50m height, 4000t steel sitting on 7m height blade walls
+  - CMES Construction Methodology and Erection Sequence analysis
+  - Rotation of walls and lift roof was used to remove working from heights
+  - Used a tension strand jack for wall rotation paired with push-pull jacks for controlling when past tipping point
+  - Walls can to past vertical to allow for roof lift
+  - OSDP Wall rotation 2019 youtube ANI
+  - [[https://www.youtube.com/watch?v=Zu53GqYdp9w][Wall rotation video]]
+  - [[https://www.youtube.com/watch?v=FT4bKSLIyuI][Roof lift video]]
+  - Accounted for jack failure in roof lift
+
+* [2021-06-09 Wed] The DBP (NSW) for Engineers
+:PROPERTIES:
+:type: EA presentation
+:END:
+:LOGBOOK:
+CLOCK: [2021-06-09 Wed 12:00]--[2021-06-09 Wed 13:00] =>  1:00
+:END:
+- Presenter: Greg Ewing
+- The Design and Building Practitioners Act (NSW) for Engineers 
+- Summary:
+  - Relevant parts of legislation are Sections 31-33
+  - Sec 31: Defines professional engineering
+  - Sec 32: Defines work that requires PE qualification
+  - Sec 33: To get paid for this work you must be PE
+  - Info on application/maintaining PE quali is on fair-trade website
+  - Required for engineers working on Class 2 buildings with >5yr experience
+  - Next step is /Design practitioner/ which is required to sign off documentation (that it complies with BCA)
+  - To maintain rego you must abide by code of practice, do 50hr/yr CPD, keep records for 10yrs and have insurance
+    
+* [2021-06-08 Tue] Professional liability and Ethics
+:PROPERTIES:
+:type: EA presentation
+:END:
+:LOGBOOK:
+CLOCK: [2021-06-08 Tue 17:00]--[2021-06-08 Tue 18:00] =>  1:00
+:END:
+Summary:
+- We don't have to worry about personal liability since action will be taken against the company/employer (but this is about financial loss, not job loss)
+- The webinar had an unusual focus on law/court rather than ethics as advertised. It was more about what you can get away with rather than what is ethical
+- Growth comes from stretching yourself/pushing beyond your current capability. Assume, when given these tasks, that your manager has good intentions when giving difficult assignments
+
+* [2021-05-21 Fri] Engineering textbooks
+
+Textbooks from uni (ticks mean I have PDF also):
+- [X] Anil Chopra, Dynamics of Structures, Third Edition
+- [ ] S Barry, Essential Mathematical Skills
+- [X] R C Hibbeler, Structural Analysis, Eighth Edition in SI Units
+- [X] Gere & Goodno, Mechanics of Materials, Seventh Edition
+- [X] Glyn James, Modern Engineering Mathematics, Fourth Edition
+
+* [2021-05-21 Fri] Inducta
+
+** RCB
+*** Model creation
+1. Start from Indesco template in Indesco Library drive (has load combinations set up)
+2. Define storey heights
+3. CAD import for each level
+4. Start drawing members (walls, columns, slabs, etc.)
+
+*** Naming convention
+XXXX(Project num) - Proj Name - RCB - XXXX.XX.XX(date arch base) -
+XX(rev) - Description - Sub description - XX(initials)
+*** Tips
+- Meshing errors can be caused by discontinuity between levels
+*** Wall/Deep Beam Design
+Accessed through =Design > Wall/Deep Beam=
+
+Settings:
+- Steel MPa :: 500 for ULS
+- Concr f'ct :: 0 for ULS (assume cracked)
+
+* [2021-05-21 Fri] Pile design
+** AS 2159
+*** Section 1
+**** Pile types
+Displacement of non-displacement types - whether it displaces the soil
+of its volume or not. Displacement piles are either large displacement
+or small displacement Non-displacement piles are either
+supported(/temporary support) or unsupported
+
+*** Section 3 - Strength and serviceability design
+**** Design for
+1. Ultimate strength
+2. Serviceability
+3. Durability
+4. Other (as required by client)
+
+**** Ultimate strength
+Design geotechnical strength and design structural strength must be
+greater than design action effect:
+- $R_{d,g} \ge E_d$
+- $R_{d,s} \ge E_d$
+
+Actions specified in AS 1170.0
+
+***** R_d,ug
+$R_{d,ug} = f_{m,s}A_s + (f_b + p_o)A_b - W$ and, assuming $W =
+A_{b}p_{o}$ $R_{d,ug} = f_{m,s}A_s + f_{b}A_b$
+
+**** Serviceability
+Pile displacement $\delta$ should be controlled.
+
+   
+*** Section 4
+*** Section 5
+*** Section 6
+*** Section 7
+*** Section 8
+
+* [2021-05-21 Fri] RAPT
+
+** Default settings to consider
+*** General
+- Pattern Live Load: No
+*** Design Data
+- Ultimate
+  - Minimum Reinforcement Strength Limit: 1.33
+- Crack control
+  - Max Service Stress Change - PT & Reo: 200 MPa
+- Deflection
+  - Maximum Value of Ieff/Igross: 1 (due to PT)
+  - Incremental Deflection Warning Limit: 500
+  - Time of Loading: 28 days
+
+*** Design considerations
+- Columns
+  - Change the column percentage stiffness (20%)
+- Transverse columns
+  - Should probably be knife-edge connection?
+
+* [2021-05-21 Fri] Structural toolkit
+
+** 2021.04.29 Conference - Use and tips
+1. Check setup tab (save some settings as defaults)
+2. Add sheets on the left pane, adding to the project
+*** Tips
+- Link sheets together :: Useful for joist - beam loadings
+  - Highlight
+  - R. Click
+  - Fill form
+- Convert between timber/steel members :: Carries over loadings (MEMBERS tab)
+- DOCUMENT > MEMBER SUMMARY/RXN SUMMARY
+- Can set modules to NOT PRINTED :: for use with PRINT/EXPORT all PROJECT TAB DOCUMENT TAB for printing all pot current
+- CTRL + CLICK :: Allows selection of other versions of modules Colder codes)
+- Members Presets :: Can change default values (eg. Wind load)
+
+* [2021-05-21 Fri] Structural integrity reinforcement
+
+*AS3600:2018 Section 9.2*
+
+** Integrity reinforcement
+*** Email from Daruis
+Afternoon All!
+
+I’ve been working on a couple of projects where I have been
+considering our favourite topic…Integrity Reinforcement.
+
+For the Engineers, see below for a detailed run down.
+
+For the drafters…be aware that we are now required to add extra
+reinforcement bars directly over our columns (in the bottom
+reinforcement) – see attached PDF markup for a typical slab.
+
+Clause 9.2 Structural Integrity Reinforcement
+
+We are still debating what is exactly required and are trying to
+utilize our PT strand as a way of minimizing the extent, however the
+code does not allow us to consider PT strand at the moment (despite
+zero testing or theory backing this up). In any case, in order to
+achieve compliance with Clause 9.2, we must detail an amount of
+reinforcement over the columns in the bottom reinforcement layer which
+is directly related to the ultimate reaction N* for the particular
+column under consideration.
+
+The summation of the reinforcement at a particular column is given by
+equation 9.2.2 reproduced below:
+
+To calculate N*, work out the tributary area and multiply by your
+ultimate load case (1.2G + 1.5Q).
+
+These bars are required to be placed WITHIN the column core and they
+must extend a minimum 2 x Lsy.tb from the face of the column, and
+should be cogged at discontinuous edges.
+
+This means, that the length of the bar will be dependent on the bar
+diameter selected, and hence, ideally we would select the smallest bar
+size possible, however we are restricted to keeping the bars within
+the column core, and so this will not always be possible.
+
+The other thing is, we are not required to have an even amount of bars
+in each direction of the column (i.e. 3N16’s EW). We simply need a
+minimum of 2 bars or 2 strands in each direction (Cl. 9.2.1).
+Therefore, we could potentially have 2N16’s in one direction and
+4N16’s in the other direction.
+
+As an example, I have attached a copy of a typical 200mm thick slab
+for a post tension job I am looking at. The first page is a markup of
+the integrity reinforcement required for the deck, the second page
+shows the trib. area for each column in blue, and in green is the
+integrity reinforcement required for each column based on equation
+9.2.2.
+
+I have also attached a spreadsheet that I am working on in order to
+simplify the design process for us. This is under development and I
+will look to improve this to speed this process up as much as
+possible.
+
+Numerical Example Let’s consider the column above the top right hand
+side of the core as shown below:
+
+As you can see above, the trib area for the column is 48.4m2. Now we
+will use the spreadsheet to calculate our required integrity
+reinforcement for the column.
+
+If you open the spreadsheet up, you will see this:
+
+Only red text requires an input, everything else will be calculated
+for you.
+
+From the top work through the “Basic development length” inputs in
+red.
+
+Input f’c, D (slab depth), cover, fsy, db (bar diameter), spacing; in
+this example I have decided to use N16 bars initially.
+
+This will generate your basic development length (yellow rectangle).
+
+Next, enter your column dimensions, trib area and your pressure loads.
+The spreadsheet will calculate you slab self weight from the depth you
+provided in the basic development length above.
+
+This will then generate the total area you need to satisfy the
+integrity reo (green box), and in the pink box, it will call up the
+number of bars you require for that bar size.
+
+I have also calculated the lengths required for your bars for an
+internal column and an edge column (external span).
+
+So for this example, we can get away with 12N16’s (note I have used
+13N16’s in my markup as I have rounded up and am using this deck as an
+exercise for a client).
+
+Now, say you can’t fit 12N16’s in your column, you will need to
+increase the bar size, let’s try N20’s.
+
+Simply change the bar size you originally selected to 20 and the
+spreadsheet will do the rest:
+
+We now only require 8N20’s, but note how the required bar lengths have
+increased significantly!
+
+This will likely be a topic we will re-visit on our training day on
+the 6th of December.
+
+In the meantime though, engineers please read through Clause 9.2 of
+AS3600 (2018) and get yourselves familiar with the clause as it will
+likely be here to stay.
+
+
+* Tracker
+#+BEGIN: clocktable :scope file :properties ("type") :block 2023
+#+CAPTION: Clock summary at [2023-03-07 Tue 14:12], for the year 2023.
+| type                  | Headline                               | Time |
+|-----------------------+----------------------------------------+------|
+|                       | *Total time*                             | *4:30* |
+|-----------------------+----------------------------------------+------|
+| External presentation | [2023-02-16 Thu] Penetron presentation | 1:00 |
+| podcast               | [2023-02-10 Fri] The Structural...     | 1:00 |
+| podcast               | [2023-02-04 Sat] Episode 71 -...       | 1:00 |
+| EA presentation       | [2023-02-03 Fri] How to become a...    | 1:00 |
+| podcast               | [2023-02-03 Fri] TSEC 95 Why Mass...   | 0:30 |
+#+END:

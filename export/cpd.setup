@@ -1,0 +1,17 @@
+# -*- mode: org; -*-
+
+#+options: toc:nil num:nil
+#+options: html-postamble:nil
+#+options: html-style:nil
+
+#+html_head: <link rel="stylesheet" type="text/css" href="export/cpd.css" />
+#+html_head: <script type="text/javascript" src="export/cpd.js" defer></script>
+#+html_head: <link rel="icon" type="image/ico" href="html-export/cpd-favicon.svg" />
+#+html_head: <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+# Star ratings
+#+macro: stars1 @@html:<span class="star">&starf;</span>@@
+#+macro: stars2 @@html:<span class="star">&starf;&starf;</span>@@
+#+macro: stars3 @@html:<span class="star">&starf;&starf;&starf;</span>@@
+#+macro: stars4 @@html:<span class="star">&starf;&starf;&starf;&starf;</span>@@
+#+macro: stars5 @@html:<span class="star">&starf;&starf;&starf;&starf;&starf;</span>@@
