@@ -2,6 +2,21 @@
 #+startup: overview
 #+setupfile: export/cpd.setup
 
+* [2023-03-11 Sat] TSEC 97 Fundamentals of post-tensioned concrete      :cpd:
+:PROPERTIES:
+:type: podcast
+:END:
+:LOGBOOK:
+CLOCK: [2023-03-11 Sat 16:56]--[2023-03-11 Sat 17:56] =>  1:00
+:END:
+
+- *Title*: The fundamentals of post-tensioned concrete design
+- *Presenter*: Dirk Bondy
+
+- Inducing large loads into the concrete from day 3
+- Need to pay special attention to achorage to prevent explosion
+- Has YouTube lecture series
+- Advises staying on top of technical skills and hand calcs as backups
 * [2023-03-06 Mon] Ethical item
 
 Project 9011 Green Square Stage 4 Excavation - IV
@@ -798,17 +813,17 @@ In the meantime though, engineers please read through Clause 9.2 of
 AS3600 (2018) and get yourselves familiar with the clause as it will
 likely be here to stay.
 
-
 * Tracker
 #+BEGIN: clocktable :scope file :properties ("type") :block 2023
-#+CAPTION: Clock summary at [2023-03-07 Tue 14:12], for the year 2023.
-| type                  | Headline                               | Time |
-|-----------------------+----------------------------------------+------|
-|                       | *Total time*                             | *4:30* |
-|-----------------------+----------------------------------------+------|
-| External presentation | [2023-02-16 Thu] Penetron presentation | 1:00 |
-| podcast               | [2023-02-10 Fri] The Structural...     | 1:00 |
-| podcast               | [2023-02-04 Sat] Episode 71 -...       | 1:00 |
-| EA presentation       | [2023-02-03 Fri] How to become a...    | 1:00 |
-| podcast               | [2023-02-03 Fri] TSEC 95 Why Mass...   | 0:30 |
+#+CAPTION: Clock summary at [2023-03-11 Sat 17:56], for the year 2023.
+| type                  | Headline                                 | Time |
+|-----------------------+------------------------------------------+------|
+|                       | *Total time*                               | *5:30* |
+|-----------------------+------------------------------------------+------|
+| podcast               | [2023-03-11 Sat] TSEC 97 Fundamentals... | 1:00 |
+| External presentation | [2023-02-16 Thu] Penetron presentation   | 1:00 |
+| podcast               | [2023-02-10 Fri] The Structural...       | 1:00 |
+| podcast               | [2023-02-04 Sat] Episode 71 -...         | 1:00 |
+| EA presentation       | [2023-02-03 Fri] How to become a...      | 1:00 |
+| podcast               | [2023-02-03 Fri] TSEC 95 Why Mass...     | 0:30 |
 #+END:
